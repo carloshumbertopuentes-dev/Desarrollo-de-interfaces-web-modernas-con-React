@@ -148,7 +148,7 @@ El Backend expone las siguientes rutas principales bajo la URL base http://local
 •	Vite: Entorno de desarrollo ultrarrápido para el Frontend.
 •	Oxlint & Rolldown: Herramientas de alto rendimiento para el análisis estático (linting) y empaquetado del lado del cliente.
 ## 📄 Licencia y Créditos
-•	Autor: Vic Flores
+
 •	Licencia: ISC (Internet Systems Consortium)
 💡 Puntos Clave que incluye este README:
 1.	Separación Clara: Explica al usuario del repositorio cómo levantar el Frontend y Backend de forma independiente pero coordinada.
